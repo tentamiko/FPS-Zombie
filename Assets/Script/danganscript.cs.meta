@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3a4e1ab230f604b27bd01438890be9fa
+timeCreated: 1469545002
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - dangan: {fileID: 179252, guid: eaf14b048f11a45a49debb3a5a3f902d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
