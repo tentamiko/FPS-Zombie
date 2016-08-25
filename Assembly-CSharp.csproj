@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{08FD70F9-6259-B016-7E3A-6829DB110324}</ProjectGuid>
+    <ProjectGuid>{8BFA6A3C-E12B-D6DF-BCAE-6AE775E46639}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -91,6 +91,7 @@
      <Compile Include="Assets\Assets\Standard Assets\Utility\WaypointCircuit.cs" />
      <Compile Include="Assets\Assets\Standard Assets\Utility\WaypointProgressTracker.cs" />
      <Compile Include="Assets\Script\FPSScript.cs" />
+     <Compile Include="Assets\Script\PlayerNavScript.cs" />
      <Compile Include="Assets\Script\barrelscript.cs" />
      <Compile Include="Assets\Script\bombscript.cs" />
      <Compile Include="Assets\Script\danganscript.cs" />
