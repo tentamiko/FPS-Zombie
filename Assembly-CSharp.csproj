@@ -90,12 +90,13 @@
      <Compile Include="Assets\Assets\Standard Assets\Utility\TimedObjectDestructor.cs" />
      <Compile Include="Assets\Assets\Standard Assets\Utility\WaypointCircuit.cs" />
      <Compile Include="Assets\Assets\Standard Assets\Utility\WaypointProgressTracker.cs" />
-     <Compile Include="Assets\Script\FPSScript.cs" />
-     <Compile Include="Assets\Script\PlayerNavScript.cs" />
+     <Compile Include="Assets\Script\PlayerScript\EventManagerScript.cs" />
+     <Compile Include="Assets\Script\PlayerScript\FPSScript.cs" />
+     <Compile Include="Assets\Script\PlayerScript\PlayerNavScript.cs" />
+     <Compile Include="Assets\Script\PlayerScript\ScoreManagerScript.cs" />
      <Compile Include="Assets\Script\barrelscript.cs" />
      <Compile Include="Assets\Script\bombscript.cs" />
      <Compile Include="Assets\Script\danganscript.cs" />
-     <Compile Include="Assets\Script\targetscript.cs" />
      <None Include="Assets\Assets\Zombie_0_3\AnimationFrameTable\Zombie_0_3.txt" />
      <None Include="Assets\Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
      <None Include="Assets\Assets\Standard Assets\ParticleSystems\ParticleSystemsGuidelines.txt" />
