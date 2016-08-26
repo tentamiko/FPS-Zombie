@@ -15,7 +15,7 @@ public class EventManagerScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (eventnumber == 0) {
-			PlayerNavScript.target = target1;
+			//PlayerNavScript.target = target1;
 			Player.SendMessage ("Advance");
 		}
 	}
